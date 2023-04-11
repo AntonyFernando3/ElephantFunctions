@@ -1,0 +1,89 @@
+body{
+    height: 100vh;
+    background: linear-gradient(
+    135deg,
+    #fff2e6,
+    #fff2e6
+    );
+}
+
+.imagem1 img{
+    height: 60px;
+    width: 60px;
+    float: left;
+}
+
+.imagem2 img{
+    height: 100px;
+    width: 100px;
+    float: left;
+}
+
+.imagemfooter img{
+    height: 100px;
+    width: 100px;
+    float: left;
+    margin-top: -20px;
+}
+
+.textofooter{
+    color: #ffffff;
+    font-size: 40px;
+    line-height: 32px;
+    margin-top: 60px;
+    font-weight: bolder;
+}
+
+.texto1{
+    font-size: 26px;
+    line-height: 20px;
+    margin-top: 10px;
+    font-weight: bolder;
+}
+
+.texto2{
+    font-size: 36px;
+    line-height: 30px;
+    margin-top: 20px;
+    font-weight: bolder;
+}
+
+.formatacao1{
+    margin-left: 300px;
+}
+
+.formatacao2{
+    margin-left: 200px;
+}
+
+.centralizar{
+    align-items: center;
+    text-align: center;
+}
+
+.negrito{
+font-weight: bolder;
+}
+
+.titulo{
+color: linear-gradient( to right, rgb(12, 12, 119), rgb(4, 76, 184), rgb(12, 12, 119) );
+font-weight: bolder;
+font-size: 40px;
+margin-left: 100px;
+margin-right: 50px;
+}
+
+.introducao{
+text-align: justify;
+font-size: 20px;
+margin-top: -20px;
+margin-left: 100px;
+margin-right: 100px;
+}
+
+.imagemfuncao{
+height: 300px;
+width: 300px;
+margin-left: 500px;
+display: block;
+}
